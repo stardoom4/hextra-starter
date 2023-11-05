@@ -1,17 +1,15 @@
 ---
-title: My Site
+title: celestial Minds
 toc: false
 ---
 
-This is the landing page.
+## Aspiring physicist, and a Self-Made Consipiracy Theorist.
+
+This is my Digital Garden where I will write about my thoughts and The things I am have learned.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="docs" title="Wiki" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
