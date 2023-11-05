@@ -1,5 +1,5 @@
 ---
-title: celestial Minds
+title: Celestial Minds
 toc: false
 ---
 
